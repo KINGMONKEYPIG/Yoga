@@ -1,0 +1,55 @@
+body {
+    background-color: #1e2125;
+  }
+
+h1 {
+    color: #ffffff;
+    font-family: verdana;
+  }
+
+h2 {
+    color: #ffffff;
+    font-family: verdana;
+  }
+
+h3 {
+    color: #ffffff;
+    font-family: verdana;
+
+  }
+
+nav {
+    color: #ffffff;
+    font-family: Arial;
+
+  }
+
+  a{
+    color: #ffffff;
+    font-family: Arial;
+
+  }
+
+  li{
+    color: #aaaaaa;
+    font-family: Arial;
+
+  }
+
+article{
+    color: #aaaaaa;
+    font-family: Arial;
+
+  }
+
+p {
+    color: #aaaaaa;
+    font-family: Arial;
+
+  }
+
+footer {
+    color: #aaaaaa;
+    font-family: Arial;
+
+}
