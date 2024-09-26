@@ -31,13 +31,14 @@ nav {
   }
 
   li{
-    color: #aaaaaa;
+    color: #cccccc;
     font-family: Arial;
+    text-align: left;
 
   }
 
 article{
-    color: #aaaaaa;
+    color: #cccccc;
     font-family: Arial;
 
   }
@@ -52,4 +53,15 @@ footer {
     color: #aaaaaa;
     font-family: Arial;
 
+}
+
+.box {
+  text-align: center;
+  height: 140px;
+  width: 400px;
+  background-color: #4e4e4e;
+  border: 2px solid #aaaaaa;
+  border-radius: 15px;
+  padding: 15px;
+  z-index: -1;
 }
